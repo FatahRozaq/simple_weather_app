@@ -4,7 +4,10 @@ NIM  : 221511018
 Apps : Simple Weather App
 
 Screenshoot
+
+
 Mode Celcius :
+
 ![celcius](https://github.com/FatahRozaq/simple_weather_app/assets/89440284/2095b8db-7c99-48a3-9afd-d72f41df912d)
 
 Mode Fahrenheit :
